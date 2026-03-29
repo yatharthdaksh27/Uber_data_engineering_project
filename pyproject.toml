@@ -1,7 +1,10 @@
 [project]
-name = "event-tutorial"
+name = "uber-data-engineering-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Real-time data streaming pipeline for Uber ride generation using FastAPI and Azure Event Hubs."
+authors = [
+    { name = "yatharthdaksh" }
+]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

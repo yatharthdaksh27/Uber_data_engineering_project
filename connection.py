@@ -16,8 +16,6 @@ CONNECTION_STRING = os.getenv("CONNECTION_STRING")
 EVENT_HUBNAME = os.getenv("EVENT_HUBNAME")
 
 
-
-
 def send_to_event_hub(ride_data=None, batch_size=1):
 
     try:
