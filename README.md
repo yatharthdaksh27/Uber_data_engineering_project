@@ -113,11 +113,3 @@ The generated data (`data.py`) outputs a complex structure containing:
 - **Demographics:** `driver_name`, `vehicle_model`, `payment_method`
 
 *(Check the JSON output after running `connection.py` for a full schema example).*
-
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or create a pull request if you want to enhance the pipeline.
-
----
-*If you find this project useful, feel free to star the repository and share it!*
